@@ -1,0 +1,2 @@
+include book/schema.sql
+global-exclude *.pyc
