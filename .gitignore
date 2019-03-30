@@ -1,6 +1,8 @@
-*/node_modules
-*/venv 
-*/__pycache__
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+venv/
 */report.md
 */report.pdf
 			
