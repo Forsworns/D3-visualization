@@ -134,9 +134,6 @@ export default {
         })
       })
       
-
-      
-      
       const lengend = g => {
         VARIANTS.forEach((ele,idx)=>{
           g.append("rect")
