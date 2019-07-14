@@ -10,7 +10,7 @@
   "dependencies": {
     "@geo-maps/countries-land-10km": "^0.6.0",
     "acorn-dynamic-import": "^4.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-preset-es2015": "^6.24.1",
     "countries-list": "^2.4.2",
     "dayjs": "^1.8.10",
